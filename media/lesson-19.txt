@@ -1,0 +1,13 @@
+An infographic connects accurate data with clear visual and verbal meaning. Labels, units, source context and visual scale all affect the claim a reader receives. A chart can contain the right numbers and still mislead through mismatched labels or distorted lengths.
+
+How to do it.
+Step 1. Verify each value, its label, unit and source context.
+Step 2. Choose a visual relationship that matches the comparison you are making.
+Step 3. Check the displayed values and visual proportions against the source and add the explanation readers need.
+
+Worked example.
+Read the source pairs. PRACTICE DATA: Trial A held 12 washers; Trial B held 18. Each value belongs to a specific trial, and washers are the unit. The data does not establish a school record or a cause by itself.
+Detect a visual distortion. The bar for 18 is drawn about four times as long as the bar for 12. The numbers are printed correctly, but the lengths exaggerate the difference. Accurate labels do not excuse a misleading scale.
+Align picture and values. The bars use a common zero baseline and proportional lengths. Now the visual relationship supports the data. Include source context and units according to the approved graphics workflow.
+
+Watch for this. Do not turn a comparison into a causal claim unless reporting supports the cause.

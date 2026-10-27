@@ -1,0 +1,13 @@
+Final review checks relationships across the actual artifact: names against records, captions against images, graphics against sources and type against the final layout. A repair is complete only after you review the corrected output under your current production workflow.
+
+How to do it.
+Step 1. Use the approved staff checklist to inspect the actual final page or export.
+Step 2. Record a specific problem, the source that establishes it and the repair needed.
+Step 3. Check the new output after the change, including links, references and information affected elsewhere.
+
+Worked example.
+Find independent errors. Roster: Maya Chen. Caption: Mya Chen. Data source: 18. Graphic: 81. The name and value need separate corrections. The polished layout does not make either accurate.
+Check the relationships. The corrected caption still sits beside the wrong illustration. Proofing the words alone misses the image-to-caption connection. Inspect the whole artifact.
+Close the repair loop. Source → correction → new output → recheck. Use the staff’s final review, export and handoff procedures. A box checked in this activity does not substitute for a verified production artifact.
+
+Watch for this. Do not assume an edit in the working file is present in the export you are about to hand off.

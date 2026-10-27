@@ -1,0 +1,13 @@
+An index is navigation based on verified names and page references. Its design needs to support quick lookup, but visual order cannot compensate for a misspelled name or wrong page. Treat indexing as reporting and proofing, not only typesetting.
+
+How to do it.
+Step 1. Check each index entry against the verified identity source and the actual coverage.
+Step 2. Apply the staff’s approved sorting, reference and page-number conventions.
+Step 3. Test a lookup from entry to page, then check the page back against the index.
+
+Worked example.
+Compare the records. ROSTER: Maya Chen. COVERAGE PAGE: 42. DRAFT INDEX: Mya Chen, 24. Both the name and the page reference conflict with the practice sources. The entry needs two independent corrections.
+Repair the navigation. Maya Chen — 42 Now the reference can lead to the verified coverage. Sorting and display should follow the current staff system.
+Test the route. Look up Maya → open page 42 → confirm the coverage and identity. Checking the journey catches errors a spelling-only pass can miss. The final pagination must be the version used in the reference.
+
+Watch for this. Do not proof an index against an outdated page plan after pagination changes.
